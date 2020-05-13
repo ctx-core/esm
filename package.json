@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/esm",
-	"version": "2.1.15",
+	"version": "2.1.16",
 	"description": "ctx-core esm",
 	"main": "lib.js",
 	"module": "lib.js",
