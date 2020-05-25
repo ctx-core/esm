@@ -2,6 +2,7 @@
 	"name": "@ctx-core/esm",
 	"version": "2.1.17",
 	"description": "ctx-core esm",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
