@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/esm",
-	"version": "2.1.23",
+	"version": "2.1.24",
 	"description": "ctx-core esm",
 	"main": "index.js",
 	"module": "index.js",
