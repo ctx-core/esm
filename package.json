@@ -2,9 +2,9 @@
 	"name": "@ctx-core/esm",
 	"version": "2.1.24",
 	"description": "ctx-core esm",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
