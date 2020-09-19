@@ -1,35 +1,35 @@
 {
-	"name": "@ctx-core/esm",
-	"version": "2.1.33",
-	"description": "ctx-core esm",
-	"keywords": [
-		"ctx-core",
-		"esm"
-	],
-	"homepage": "https://github.com/ctx-core/esm#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/esm/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/esm/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"exec": "$@"
-	},
-	"dependencies": {
-		"esm": "^3.2.25"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "caf4d84d1940118c6177a4fc7dee047a049cf476"
+  "name": "@ctx-core/esm",
+  "version": "3.0.0",
+  "description": "ctx-core esm",
+  "keywords": [
+    "ctx-core",
+    "esm"
+  ],
+  "homepage": "https://github.com/ctx-core/esm#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/esm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/esm/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "exec": "$@"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "caf4d84d1940118c6177a4fc7dee047a049cf476"
 }
