@@ -1,5 +1,12 @@
 # @ctx-core/esm
 
+## 3.1.0
+
+### Minor Changes
+
+- \_require**esm**cjs: esm_cjs_require
+- \_require\_\_esm: esm_require
+
 ## 3.0.5
 
 ### Patch Changes
