@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 4.0.2
+
+### Patch Changes
+
+- typescript: ^4.1.4 -> ^4.1.5
+
 ## 4.0.1
 
 ### Patch Changes
