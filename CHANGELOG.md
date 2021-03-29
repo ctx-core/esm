@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 4.0.7
+
+### Patch Changes
+
+- version bump
+
 ## 4.0.6
 
 ### Patch Changes
