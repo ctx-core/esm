@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 4.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 4.0.9
 
 ### Patch Changes
