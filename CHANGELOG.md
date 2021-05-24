@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 4.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 4.2.0
 
 ### Minor Changes
