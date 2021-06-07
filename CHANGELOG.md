@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 4.3.3
+
+### Patch Changes
+
+- version bump: run build
+
 ## 4.3.2
 
 ### Patch Changes
