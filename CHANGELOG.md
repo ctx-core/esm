@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.0.1
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 6.0.0
 
 ### Major Changes
