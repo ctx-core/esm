@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.0.2
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 6.0.1
 
 ### Patch Changes
