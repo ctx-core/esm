@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.0.24
+
+### Patch Changes
+
+- package.json: - module
+
 ## 6.0.23
 
 ### Patch Changes
