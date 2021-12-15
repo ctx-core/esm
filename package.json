@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/esm",
-	"version": "6.0.24",
+	"version": "6.0.25",
 	"description": "ctx-core esm",
 	"keywords": [
 		"ctx-core",
@@ -42,5 +42,6 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"svelte": "./dist/index.js"
 }
