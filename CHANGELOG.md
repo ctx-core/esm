@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.0.36
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 6.0.35
 
 ### Patch Changes
