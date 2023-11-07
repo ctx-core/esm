@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.1.22
+
+### Patch Changes
+
+- @types/esm: ^3.2.1 -> ^3.2.2
+
 ## 6.1.21
 
 ### Patch Changes
