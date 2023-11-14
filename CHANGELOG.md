@@ -1,5 +1,15 @@
 # @ctx-core/esm
 
+## 6.2.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 6.2.3
 
 ### Patch Changes
