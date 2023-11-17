@@ -5,7 +5,7 @@ module.exports = {
 	esm__cjs__require,
 	_require__esm__cjs: esm__cjs__require
 }
-/** @typedef {import('./index.d.ts').esm__Options}esm__Options */
+/** @typedef {import('./index.d.ts').esm__Options} */
 /**
  * @param params{esm__Options}
  * @returns {NodeRequire}
