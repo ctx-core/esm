@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.2.8
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+
 ## 6.2.7
 
 ### Patch Changes
