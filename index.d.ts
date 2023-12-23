@@ -1,4 +1,4 @@
-import { default as _esm } from 'esm'
+import type { default as _esm } from 'esm'
 // type esm__argv_a_T = Parameters<esm>
 export type esm__Parameters = Parameters<typeof _esm>
 export type esm__Options = esm__Parameters[1]

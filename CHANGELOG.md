@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.2.11
+
+### Patch Changes
+
+- fix: type errors
+
 ## 6.2.10
 
 ### Patch Changes
