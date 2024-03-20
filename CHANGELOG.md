@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.2.13
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 6.2.12
 
 ### Patch Changes

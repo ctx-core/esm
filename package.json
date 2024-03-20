@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/esm",
-	"version": "6.2.12",
+	"version": "6.2.13",
 	"description": "ctx-core esm",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/esm.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-esm@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
