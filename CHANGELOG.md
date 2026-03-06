@@ -1,5 +1,11 @@
 # @ctx-core/esm
 
+## 6.2.15
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 6.2.14
 
 ### Patch Changes
